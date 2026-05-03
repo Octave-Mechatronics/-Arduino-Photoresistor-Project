@@ -16,7 +16,7 @@ In diesem Projekt wird ein **Fotowiderstand (LDR)** verwendet, um die Umgebungsh
 - Jumper-Kabel
 
 ## 🎥 Demonstration
-![Demo](media/demo.mp4)
+![Demo](https://youtube.com/shorts/PIMHYtJOLYE?feature=share)
 
 *(Falls das Video nicht angezeigt wird, kann alternativ ein YouTube-Link verwendet werden.)*
 
