@@ -21,7 +21,7 @@ In diesem Projekt wird ein **Fotowiderstand (LDR)** verwendet, um die Umgebungsh
 *(Falls das Video nicht angezeigt wird, kann alternativ ein YouTube-Link verwendet werden.)*
 
 ## 💻 Code
-Der Code befindet sich im Ordner: `code/photoresistor.ino`
+Der Code befindet sich im Ordner: `Photoresistor_may3c.ino`
 
 ## 🔧 Funktionsweise
 Der Fotowiderstand misst die Lichtintensität und liefert einen analogen Wert.
